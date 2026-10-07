@@ -1,0 +1,13 @@
+{
+  "name": "Z-Image-Turbo",
+  "version": "5.0",
+  "description": "Z-Image-Turbo - Efficient 6B parameter image generation model with sub-second inference, packaged for Pinokio",
+  "author": "PierrunoYT",
+  "license": "MIT",
+  "app": {
+    "app.py": {
+      "entry": "app.py",
+      "port": 7860
+    }
+  }
+}
